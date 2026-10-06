@@ -8,8 +8,8 @@ A Small basic 2D Game Created in Unity showing how long you can balance a ball
 
 # Running the Project
 * Please ensure that you have Unity installed and set up if you want to run the program in the Editor
-* The Project also has an executable folder for running the project. It is located in "A Place to Mess About" Folder.
-* The Solution Folder is also provided in the same folder if you just want to look at the Coding / Scripting Files (written in C#)
+* The Project also has an executable folder for running the project. It is located in "How-Long-you-can-Balance-the-Ball" Folder.
+* The Solution Folder is also provided in the same folder if you just want to look at the Coding / Scripting Files (written in C#) (under "Assets/Scripts")
 
 # Screenshots
 (will be added)
